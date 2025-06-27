@@ -1,4 +1,4 @@
-# Tic Tac TOBOL
+# Tic Tac ToCOBOL
 
 This is just a version of Tic Tac Toe in COBOL. Based on the project from  ShaunLawrie/TicTacTOBOL
  😜  
